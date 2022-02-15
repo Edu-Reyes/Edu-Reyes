@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A Land Surveyor Engineer turned Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edureyesm&label=Profile%20views&color=0e75b6&style=flat" alt="edureyesm" /> </p>
+- 🔭 I’m currently working on **Personal projects**
 
 - 🌱 I’m currently learning **Mobile development, Game development**
 
+- 👯 I’m looking to collaborate on **Startups**
+
+- 💬 Ask me about **Django and ReactJS**
+
 - 📫 How to reach me **edo.reyesmartinez@gmail.com**
+
+- ⚡ Fun fact **I really like Tactical RPG's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edureyesm&show_icons=true&locale=en" alt="edureyesm" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edureyesm&" alt="edureyesm" /></p>
