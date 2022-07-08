@@ -1,25 +1,20 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A Land Surveyor Engineer turned Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Personal projects**
+- 🔭 I’m currently working on **DevArtisan SPA** and some **Personal projects**
 
-- 🌱 I’m currently learning **Mobile development, Game development**
+- 🌱 I’m currently learning **Mobile development**
 
-- 👯 I’m looking to collaborate on **Startups**
+- 💬 Ask me about **ReactJS and Django**
 
-- 💬 Ask me about **Django and ReactJS**
+- 📫 You can reach me at **edo.reyesmartinez@gmail.com**
 
-- 📫 How to reach me **edo.reyesmartinez@gmail.com**
+- ⚡ Random fact: **I really like Tactical RPG's**
 
-- ⚡ Fun fact **I really like Tactical RPG's**
-
-- 🥋 My codewars profile: 
-  <a href="https://www.codewars.com/users/edureyesm" target="blank"><img align="center" src="https://www.codewars.com/users/edureyesm/badges/small" alt="edureyesm"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/edureyesm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edureyesm" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/byleth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="byleth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
