@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A Land Surveyor Engineer turned Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **DevArtisan SPA** and some **Personal projects**
+- 🔭 I’m currently working as a colaborator on **DevArtisan SPA** and on some **Personal projects**
 
 - 🌱 I’m currently learning **Mobile development**
 
-- 💬 Ask me about **ReactJS and Django**
+- 📫 You can mail me at **edo.reyesmartinez@gmail.com**
 
-- 📫 You can reach me at **edo.reyesmartinez@gmail.com**
-
-- ⚡ Random fact: **I really like Tactical RPG's**
+- ⚡ Random fact: **I love Tactical RPG's**
 
 
 <h3 align="left">Connect with me:</h3>
