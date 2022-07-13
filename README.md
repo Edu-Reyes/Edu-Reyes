@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a colaborator on **DevArtisan SPA** and on some **Personal projects**
 
-- 🌱 I’m currently learning **Mobile development**
+- 🌱 I’m hoping to learn **C++ and Kotlin** in the near future.
 
 - 📫 You can mail me at **edo.reyesmartinez@gmail.com**
 
