@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">A Land Surveyor Engineer turned Full Stack Developer</h3>
+<h3 align="center">A Surveying Engineer turned Full Stack Developer</h3>
 
 - 🔭 I’m currently working as a colaborator on **DevArtisan SPA** and on some **Personal projects**
 
