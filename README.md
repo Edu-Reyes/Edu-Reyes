@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a colaborator on **DevArtisan SPA** and on some **Personal projects**
 
-- 🌱 I’m hoping to learn **Kotlin and C#** in the near future.
+- 🌱 I’m hoping to learn **Unity and C#** in the near future (2023).
 
 - 📫 You can mail me at **edo.reyesmartinez@gmail.com**
 
