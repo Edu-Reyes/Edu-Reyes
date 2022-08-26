@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
 <h3 align="center">A Surveying Engineer turned Full Stack Developer</h3>
 
-- 🔭 I’m currently working as a colaborator on **DevArtisan SPA** and on some **Personal projects**
+- 🔭 I’m currently working as a colaborator on **DevArtisan SPA**
 
 - 🌱 I’m hoping to learn about **Game development** in the near future.
 
