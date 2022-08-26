@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working as a colaborator on **DevArtisan SPA** and on some **Personal projects**
 
-- 🌱 I’m hoping to learn **Unity and C#** in the near future (2023).
+- 🌱 I’m hoping to learn about **Game development** in the near future.
 
 - 📫 You can mail me at **edo.reyesmartinez@gmail.com**
 
-- ⚡ Random fact: **I love Tactical RPG's**
+- ⚡ Random fact: **I love Tactical RPG games** and **Gunpla Modelling**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/edureyesm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edureyesm" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Tools that i use</h2>
 
 <h3 align="left">Programming Languages</h3>
 
