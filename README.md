@@ -24,6 +24,11 @@
 <a href="https://tanstack.com/query/v4" target="_blank" rel="noreferrer"> <img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react query" width="30" height="30" title="React Query"/></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="30" height="30" title="Vue.js"/></a>
 
+## Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=edureyesm&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ---
+
+[![](https://visitcount.itsvg.in/api?id=edureyesm&icon=2&color=6)](https://visitcount.itsvg.in)
 
 
