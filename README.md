@@ -19,6 +19,7 @@
 
 ## Others
 
+<a href="https://www.astro.build" target="_blank" rel="noreferrer"><img src="[https://astro.build/assets/press/simple-logomark-light.svg](https://astro.js.org/astro.png)" alt="python" width="30" height="30" title="Astro"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" title="Python"/></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30" title="Swift"/></a>
 
