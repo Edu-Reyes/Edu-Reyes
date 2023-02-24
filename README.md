@@ -8,7 +8,7 @@
 
 - 🌱 I’m hoping to learn about **Game development** in the near future.
 
-- ⚡ Random fact: **I love Tactical RPG games** and **Gunpla Modeling**
+- ⚡ Random fact: **I love RPG games** and **Gunpla Modeling**
 
 ## Main Languages and Tools
 
