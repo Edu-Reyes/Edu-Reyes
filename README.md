@@ -20,7 +20,7 @@
 ## Others
 
 <a href="https://www.astro.build" target="_blank" rel="noreferrer"><img src="https://astro.js.org/astro.png" alt="python" width="30" height="30" title="Astro"/></a>
-<a href="https://remix.run" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remix" width="30" height="30" title="Remix"/></a>
+<a href="https://remix.run" target="_blank" rel="noreferrer"><img src="https://remix.run/img/og.1.jpg" alt="remix" width="30" height="30" title="Remix"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" title="Python"/></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30" title="Swift"/></a>
 
