@@ -4,11 +4,11 @@
 
 ## About me
 
-- 🔭 I’m currently looking for new opportunities to work as a Frontend or Full Stack Developer.
+- :mag: I’m currently looking for new opportunities to work as a Frontend or Full Stack Developer.
 
-- 🌱 I’m currently working on a couple of personal projects: **Synthomatic UI** and **Budget Hero**.
+- :seedling: I’m currently working on a couple of personal projects: **Synthomatic UI** and **Budget Hero**.
 
-- ⚡ I'm currently learning about **Game Development**.
+- :video_game: I'm currently learning about **Game Development**.
 
 ## Main Languages and Tools
 
