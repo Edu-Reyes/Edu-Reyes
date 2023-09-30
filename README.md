@@ -6,9 +6,9 @@
 
 - :mag: I’m currently looking for new opportunities to work as a Frontend or Full Stack Developer.
 
-- :seedling: I’m currently working on a couple of personal projects: **Synthomatic UI** and **Thrifty Trials**.
+- :seedling: Working on a couple of personal projects: **Synthomatic UI** and **Thrifty Trials**.
 
-- :video_game: I'm currently learning about **Game Development**.
+- :video_game: Learning about **Game Development**.
 
 ## Main Languages and Tools
 
