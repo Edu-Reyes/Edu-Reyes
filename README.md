@@ -4,11 +4,11 @@
 
 ## About me
 
-- :mag: I’m currently looking for new opportunities to work as a Frontend or Full Stack Developer.
+- 👨‍💻: I’m currently working as a frontend developer at Enerlink | Smart Energy Solutions.
 
-- :seedling: Working on a couple of personal projects: **Synthomatic UI** and **Thrifty Trials**.
+- 🌱: Working on a couple of personal projects: **Synthomatic UI** and **Thrifty Trials**.
 
-- :video_game: Learning about **Game Development**.
+- 🎮: Learning about **Game Development**.
 
 ## Main Languages and Tools
 
