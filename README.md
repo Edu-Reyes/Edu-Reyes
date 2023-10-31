@@ -4,7 +4,7 @@
 
 ## About me
 
-- 👨‍💻 I’m currently working as a **Frontend Developer** at Enerlink | Smart Energy Solutions.
+- 👨‍💻 I’m currently working as a **Front end Developer** at Enerlink | Smart Energy Solutions.
 
 - 🌱 Working on a couple of personal projects: **Synthomatic UI** and **Thrifty Trials**.
 
