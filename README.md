@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working as a **Front end Developer** at Enerlink | Smart Energy Solutions.
 
-- 🌱 Working on a couple of personal projects: **Synthomatic UI** and **Thrifty Trials**.
+- 🌱 Working on a personal project: **Synthomatic UI**.
 
 - 🎮 Learning about **Game Development**.
 
