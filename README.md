@@ -6,9 +6,9 @@
 
 - 👨‍💻 I’m currently working as a **Front end Developer** at Enerlink | Smart Energy Solutions.
 
-- 🌱 Working on a personal project: **Synthomatic UI**.
+- 🧩 I love to build things, like lego sets and gundam scale models.
 
-- 🎮 Learning about **Game Development**.
+- 🎮 Hardcore RPG gamer.
 
 ## Main Languages and Tools
 
