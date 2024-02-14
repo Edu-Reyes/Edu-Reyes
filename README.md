@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">A Surveying Engineer turned Full Stack Developer from Chile</h3>
+<h3 align="center">A Surveying Engineer turned Full-stack Developer from Chile 🇨🇱</h3>
 <p align="center"><a href="https://linkedin.com/in/edureyesm" target="_blank"><img width="22px" alt="edureyesm linkedin" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=d01d9b" /></a></p>
 
 ## About me
